@@ -6,7 +6,7 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 
 ![Alt text](https://github.com/NothingToSay99/HOB-net/blob/main/images/p2.png)
 
-#Preparation
+# Preparation
 
 1.Install
 
