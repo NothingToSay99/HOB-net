@@ -26,11 +26,11 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 
 ## Results
 
-　　Dataset|Rank-1|mAP
-    --|:--:|:--:
-    Market1501|94.7|86.3
-    DukeMTMC|88.2|77.2
-    CUHK03-L|69.4|66.5
-    CUHK03-N|69.2|66.8
+　　|Dataset|Rank-1|mAP|
+    |--|:--:|:--:|
+    |Market1501|94.7|86.3|
+    |DukeMTMC|88.2|77.2|
+    |CUHK03-L|69.4|66.5|
+    |CUHK03-N|69.2|66.8|
 
 ## Acknowledgement
