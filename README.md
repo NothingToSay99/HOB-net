@@ -8,7 +8,7 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 
 # Preparation
 
-1. ***Install***
+### ***Install***
 
 　　pytorch>=**0.4** 
 
@@ -18,7 +18,7 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 
 　　yacs  
 
-2.***Dataset***  
+### ***Dataset***  
 
 　　Download dataset to [reid/data/](https://github.com/NothingToSay99/HOB-net/tree/main/reid/data)
 
