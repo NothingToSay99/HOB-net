@@ -8,15 +8,17 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 
 # Preparation
 
-1.Install
+1.*Install*
 
-  pytorch>=0.4  
+　　pytorch>=*0.4* 
 
-  torchvision  
+　　torchvision  
 
-  ignite=0.1.2 
+　　ignite=*0.1.2* 
 
-  yacs  
+　　yacs  
 
-2.Download dataset to [reid/data/](https://github.com/NothingToSay99/HOB-net/tree/main/reid/data)
+2.*Dataset*  
+
+　　Download dataset to [reid/data/](https://github.com/NothingToSay99/HOB-net/tree/main/reid/data)
 
