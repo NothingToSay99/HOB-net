@@ -10,13 +10,13 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 
 1.Install
 
-pytorch>=0.4  
+  pytorch>=0.4  
 
-torchvision  
+  torchvision  
 
-ignite=0.1.2 (Note: V0.2.0 may result in an error)  
+  ignite=0.1.2 
 
-yacs  
+  yacs  
 
-2.Download dataset to reid/data/
+2.Download dataset to [reid/data/](https://github.com/NothingToSay99/HOB-net/tree/main/reid/data)
 
