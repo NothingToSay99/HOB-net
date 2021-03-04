@@ -24,6 +24,10 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 
 ## Train  
 
+## Demo
+
+![DukeMTMC](https://github.com/NothingToSay99/HOB-net/blob/main/images/dukeDemos.jpg)
+
 ## Results
 
 | Dataset | Rank-1 | mAP |
