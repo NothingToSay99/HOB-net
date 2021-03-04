@@ -24,10 +24,6 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 
 ## Train  
 
-## Demo
-
-<img src="https://github.com/NothingToSay99/HOB-net/blob/main/images/dukeDemos.jpg" width="700" height="1000" align="middle" alt="DukeMTMC"/>
-
 ## Results
 
 | Dataset | Rank-1 | mAP |
@@ -36,5 +32,15 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 | DukeMTMC | 88.2 | 77.2 |
 | CUHK03-L | 69.4 | 66.5 |
 | CUHK03-N | 69.2 | 66.8 |
+
+## Demo  
+
+### DukeMTMC  
+
+<img src="https://github.com/NothingToSay99/HOB-net/blob/main/images/dukeDemos.jpg" width="700" height="1000" align="middle" alt="DukeMTMC"/>  
+
+### Market1501
+
+<img src="https://github.com/NothingToSay99/HOB-net/blob/main/images/marketDemos.jpg" width="700" height="1000" align="middle" alt="DukeMTMC"/> 
 
 ## Acknowledgement
