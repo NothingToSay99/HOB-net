@@ -37,10 +37,10 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 
 ### DukeMTMC  
 
-<img src="https://github.com/NothingToSay99/HOB-net/blob/main/images/dukeDemos.jpg" width="700" height="1000" align="middle" alt="DukeMTMC"/>  
+<img src="https://github.com/NothingToSay99/HOB-net/blob/main/images/dukeDemos.jpg" width="1000" height="7000" align="middle" alt="DukeMTMC"/>  
 
 ### Market1501
 
-<img src="https://github.com/NothingToSay99/HOB-net/blob/main/images/marketDemos.jpg" width="700" height="1000" align="middle" alt="DukeMTMC"/> 
+<img src="https://github.com/NothingToSay99/HOB-net/blob/main/images/marketDemos.jpg" width="1000" height="700" align="middle" alt="DukeMTMC"/> 
 
 ## Acknowledgement
