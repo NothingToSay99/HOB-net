@@ -26,7 +26,7 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 
 ## Demo
 
-![DukeMTMC](https://github.com/NothingToSay99/HOB-net/blob/main/images/dukeDemos.jpg)
+![DukeMTMC](src="https://github.com/NothingToSay99/HOB-net/blob/main/images/dukeDemos.jpg" width="50" height="70" align="middle")
 
 ## Results
 
