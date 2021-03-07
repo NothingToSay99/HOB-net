@@ -33,7 +33,7 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 | CUHK03-L | 69.4 | 66.5 |
 | CUHK03-N | 69.2 | 66.8 |
 
-## Demo  
+## Example results  
 
 ### DukeMTMC  
 
