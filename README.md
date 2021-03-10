@@ -20,8 +20,8 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 
 ### 2.***Dataset***  
 
-　　Download dataset to [reid/data/](https://github.com/NothingToSay99/HOB-net/tree/main/reid/data)
-
+　　Download dataset to [reid/data/](https://github.com/NothingToSay99/HOB-net/tree/main/reid/data)  
+  
 ## Train  
 
 ## Test
