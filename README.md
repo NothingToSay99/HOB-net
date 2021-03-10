@@ -45,4 +45,4 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 
 ## Acknowledgement
 
-Our code is based on [](https://github.com/michuanhaohao/reid-strong-baseline)
+Our code is based on [reid-strong-baseline](https://github.com/michuanhaohao/reid-strong-baseline)
