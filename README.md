@@ -24,6 +24,8 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 
 ## Train  
 
+## Test
+
 ## Results
 
 | Dataset | Rank-1 | mAP |
