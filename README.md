@@ -44,3 +44,5 @@ The approach proposed in the paper is simple yet effective on three re-ID datase
 <img src="https://github.com/NothingToSay99/HOB-net/blob/main/images/marketDemoGithub.jpg" width="900" height="500" align="middle" alt="DukeMTMC"/> 
 
 ## Acknowledgement
+
+Our code is based on [](https://github.com/michuanhaohao/reid-strong-baseline)
